@@ -42,8 +42,9 @@ form .display{
 }
 
 form .display input{
+    border: 2px solid white;
     text-align: right;
     flex:1;
     font-size: 45px;
-    box-shadow: none;
+    /* box-shadow: none; */
 }
